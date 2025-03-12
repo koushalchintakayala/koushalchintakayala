@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Koushal Ch</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+## Hi 👋, I'm Koushal Ch
+A passionate Full Stack Developer
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **HTML, CSS, JS, Python, Java**.
 
 - 👯 I’m looking to collaborate with **Full-Stack Developers**
 
