@@ -4,13 +4,13 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Python, Java**.
 
-- 🧠 I solve Data Structures and Algorithms (DSA) problems in Java.
+- 🧠 I solve **Data Structures and Algorithms (DSA) problems in Java**.
 
 - 👯 I’m looking to collaborate with **Full-Stack Developers**
 
-- 💬 Ask me about:  **HTML, CSS, JS, PYTHON, Java**
+- 💬 Ask me about:  **HTML, CSS, JS, PYTHON, Java**.
 
-- 📫 Reach me **kc2828@srmist.edu.in**
+- 📫 Reach out me at **kc2828@srmist.edu.in**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
