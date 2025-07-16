@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate with **Full-Stack Developers**.
 
-- 💬 Ask me about:  **HTML, CSS, JS, PYTHON, Java**.
+- 💬 Ask me about:  **HTML, CSS, JS, Python, Java**.
 
 - 📫 Reach out to me at **kc2828@srmist.edu.in**.
 
