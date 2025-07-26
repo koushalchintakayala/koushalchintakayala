@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm <i>Koushal</i></h1>
-<h3>~ Aspiring Full Stack Developer</h3> 
+<h3>~Full Stack Developer</h3> 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 I’m currently learning **HTML, CSS, JS, Python, Java**.
