@@ -47,5 +47,5 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/koushalchintakayala?ext=contest&theme=dark)](https://leetcode.com/koushalchintakayala)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 [![Koushal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koushalchintakayala&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-..
+
 
