@@ -2,10 +2,10 @@
 
   <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Koushal Chintakayala</h1>
   
-  <a href="https://linkedin.com/in/koushalchintakayala7">
+  <a href="https://linkedin.com/in/koushalchintakayala7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://koushalchintakayala.in/">
+  <a href="https://koushalchintakayala.in/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="mailto:kc2828@srmist.edu..in">
