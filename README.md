@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Koushal Chintakayala</h1>
+  <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm <a href="https://koushalchintakayala.in/">Koushal Chintakayala</a></h1>
   
   <a href="https://linkedin.com/in/koushalchintakayala7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -40,11 +40,11 @@ const Koushal = {
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,next,threejs,tailwind,nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=docker,github" />
-  <img src="https://skillicons.dev/icons?i=springboot,flask,fastapi,mongodb,supabase,firebase" />
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=java,python,js,html,css" /></a>
+  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=react,next,threejs,tailwind,nodejs,express" /></a>
+  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=docker,github" /></a>
+  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=springboot,flask,fastapi,mongodb,supabase,firebase" /></a>
+  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=git,github" /></a>
 </div>
 
 <h2 align="left">
@@ -53,6 +53,6 @@ const Koushal = {
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=koushalchintakayala&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=koushalchintakayala&theme=tokyonight&hide_border=true&background=00000000"/>
-</p>
+  <a href="https://github.com/koushalchintakayala?tab=repositories"><img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=koushalchintakayala&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/></a>
+  <a href="https://github.com/koushalchintakayala?tab=repositories"><img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=koushalchintakayala&theme=tokyonight&hide_border=true&background=00000000"/>
+</p></a>
