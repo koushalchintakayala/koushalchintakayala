@@ -8,7 +8,7 @@
   <a href="https://koushalchintakayala.in/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="mailto:kc2828@srmist.edu..in" rel="noopener noreferrer">
+  <a href="mailto:kc2828@srmist.edu.in" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-%230A66C2.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
 </a>
   
@@ -40,11 +40,11 @@ const Koushal = {
 </h2>
 
 <div align="center">
-  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=java,python,js,html,css" /></a>
-  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=react,next,threejs,tailwind,nodejs,express" /></a>
-  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=docker,github" /></a>
-  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=springboot,flask,fastapi,mongodb,supabase,firebase" /></a>
-  <a href="https://koushalchintakayala.in/"><img src="https://skillicons.dev/icons?i=git,github" /></a>
+  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java,python,js,html,css" /></a>
+  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react,next,threejs,tailwind,nodejs,express" /></a>
+  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker,github" /></a>
+  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=springboot,flask,fastapi,mongodb,supabase,firebase" /></a>
+  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git,github" /></a>
 </div>
 
 <h2 align="left">
@@ -53,6 +53,6 @@ const Koushal = {
 </h2>
 
 <p align="center">
-  <a href="https://github.com/koushalchintakayala?tab=repositories"><img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=koushalchintakayala&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/></a>
-  <a href="https://github.com/koushalchintakayala?tab=repositories"><img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=koushalchintakayala&theme=tokyonight&hide_border=true&background=00000000"/>
+  <a href="https://github.com/koushalchintakayala?tab=repositories"  target="_blank" rel="noopener noreferrer"><img width="49%" src="https://lohit-readme-stats.vercel.app/api?username=koushalchintakayala&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=00000000&show_owner=true&rank_icon=github&count_private=true"/></a>
+  <a href="https://github.com/koushalchintakayala?tab=repositories"  target="_blank" rel="noopener noreferrer"><img width="49%" src="https://github-readme-streak-stats-three-umber.vercel.app?user=koushalchintakayala&theme=tokyonight&hide_border=true&background=00000000"/>
 </p></a>
