@@ -22,15 +22,28 @@
 
 ```js
 const Koushal = {
-  education:'BTech CSE-AIML @ SRM University',
-  interest :['DSA Solver', 'Full Stack Development', 'Machine Learning'],
-  current:  'Learning Working on Full Stack Projects',
+  role: 'Software Engineer & AI Builder',
+
+  education:'B.Tech (CSE & AIML) @ SRM University',
+
+  passion: [
+    'Building Intelligent Systems',
+    'Solving DSA Problems',
+    'Generative AI',
+    'Computer Vision'
+  ],
+
+  currently:  'Building AI-powered applications and exploring System Design',
+
   tech: {
-    backend:  ['SpringBoot', 'Node.js', 'Express.js','RestAPI's'],
-    frontend: ['React.js', 'Next.js', 'Tailwind CSS'],
-    others:    ['Docker', 'Kubernetes', 'Postman'],
+    languages: ['Java', 'Python', 'JavaScript', 'SQL'],
+    frontend: ['React.js', 'TypeScript', 'Tailwind CSS'],
+    backend: ['FastAPI', 'Supabase', 'REST APIs'],
+    ai: ['LLMs', 'LangChain', 'LangGraph', 'TensorFlow', 'YOLOv8'],
+    cloud: ['AWS', 'Docker']
   },
-  funFact: "Google Me",
+
+  funFact: 'I teach computers to see, predict, and reason 🤖'
 };
 ```
 
@@ -40,12 +53,39 @@ const Koushal = {
 </h2>
 
 <div align="center">
-  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=java,python,js,html,css" /></a>
-  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react,next,threejs,tailwind,nodejs,express" /></a>
-  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=docker,github" /></a>
-  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=springboot,flask,fastapi,mongodb,supabase,firebase" /></a>
-  <a href="https://koushalchintakayala.in/"  target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git,github" /></a>
+  <a href="https://koushalchintakayala.in/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,threejs,tailwind" />
+  </a>
+
+  <a href="https://koushalchintakayala.in/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,fastapi,mongodb,supabase,firebase" />
+  </a>
+
+  <a href="https://koushalchintakayala.in/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow,docker,aws,git,github" />
+  </a>
+
+  <a href="https://koushalchintakayala.in/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
 </div>
+<h3 align="center">🤖 AI / ML & GenAI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLOv8-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" />
+</p>
+
+<p align="center">
+  
+</p>
 
 <h2 align="left">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" height="20px">
