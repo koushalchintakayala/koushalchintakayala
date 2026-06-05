@@ -23,18 +23,14 @@
 ```js
 const Koushal = {
   role: 'Software Engineer & AI Builder',
-
   education:'B.Tech (CSE & AIML) @ SRM University',
-
   passion: [
     'Building Intelligent Systems',
     'Solving DSA Problems',
     'Generative AI',
     'Computer Vision'
   ],
-
   currently:  'Building AI-powered applications and exploring System Design',
-
   tech: {
     languages: ['Java', 'Python', 'JavaScript', 'SQL'],
     frontend: ['React.js', 'TypeScript', 'Tailwind CSS'],
@@ -42,7 +38,6 @@ const Koushal = {
     ai: ['LLMs', 'LangChain', 'LangGraph', 'TensorFlow', 'YOLOv8'],
     cloud: ['AWS', 'Docker']
   },
-
   funFact: 'I teach computers to see, predict, and reason 🤖'
 };
 ```
